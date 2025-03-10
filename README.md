@@ -20,6 +20,12 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
 -->
+# hello
+## hello
+### hello
+#### hello
+##### hello
+###### hello
 
 ## Step 1: Add headers
 
@@ -65,6 +71,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. Click **Commit changes**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
+# I have tried all kinds of headers on the word hello.
 <footer>
 
 <!--
