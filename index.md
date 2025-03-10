@@ -12,3 +12,7 @@ I have tried all kinds of headers on the word hello.
 ``` python 
 msg = "Hello world"
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
